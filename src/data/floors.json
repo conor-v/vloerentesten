@@ -1,0 +1,93 @@
+[
+  {
+    "name": "Eik Caledonia LD150 Premium 6421",
+    "category": "laminate",
+    "texture": "6421_laminate_LD150_Diele",
+    "id": "ld1506421",
+    "height": 80,
+    "width": 198,
+    "length": 1288,
+    "thumbnail": "/thumbnails/laminate/ld1506421.jpg",
+    "brand": "meister",
+    "pattern": "planks",
+    "numberOfTextures": 8
+  },
+  {
+    "name": "Eik Gebarsten Licht LC55 6258",
+    "category": "laminate",
+    "texture": "6258_laminate_LC55_Diele",
+    "id": "lc556258",
+    "height": 80,
+    "width": 198,
+    "length": 1288,
+    "thumbnail": "/thumbnails/laminate/lc556258.jpg",
+    "brand": "meister",
+    "pattern": "planks",
+    "numberOfTextures": 8
+  },
+  {
+    "name": "Eik Gebarsten Terra LD 150 Premium 6439",
+    "category": "laminate",
+    "texture": "6439_laminate_LD150_Diele",
+    "id": "ld1506439",
+    "height": 80,
+    "width": 198,
+    "length": 1288,
+    "thumbnail": "/thumbnails/laminate/ld1506439.jpg",
+    "brand": "meister",
+    "pattern": "planks",
+    "numberOfTextures": 8
+  },
+  {
+    "name": "Eik Marrakech LC55 6396",
+    "category": "laminate",
+    "texture": "6396_laminate_LC55_Diele",
+    "id": "lc556396",
+    "height": 70,
+    "width": 198,
+    "length": 1288,
+    "thumbnail": "/thumbnails/laminate/lc556396.jpg",
+    "brand": "meister",
+    "pattern": "planks",
+    "numberOfTextures": 8
+  },
+  {
+    "name": "Eik Relax Pure LD150 Premium 6863",
+    "category": "laminate",
+    "texture": "6863_laminate_LD150_Diele",
+    "id": "ld1506863",
+    "height": 80,
+    "width": 198,
+    "length": 1288,
+    "thumbnail": "/thumbnails/laminate/ld1506863.jpg",
+    "brand": "meister",
+    "pattern": "planks",
+    "numberOfTextures": 8
+  },
+  {
+    "name": "Eik Taverna LD150 Premium 6428",
+    "category": "laminate",
+    "texture": "6428_laminate_LD150_Diele",
+    "id": "ld1506428",
+    "height": 80,
+    "width": 198,
+    "length": 1288,
+    "thumbnail": "/thumbnails/laminate/ld1506428.jpg",
+    "brand": "meister",
+    "pattern": "planks",
+    "numberOfTextures": 8
+  },
+  {
+    "name": "Veldeik licht LL150 Premium 6843",
+    "category": "laminate",
+    "texture": "6843_laminate_LL150_Diele",
+    "id": "ll1506843",
+    "height": 80,
+    "width": 198,
+    "length": 1288,
+    "thumbnail": "/thumbnails/laminate/ll1506843.jpg",
+    "brand": "meister",
+    "pattern": "planks",
+    "numberOfTextures": 8
+  }
+]

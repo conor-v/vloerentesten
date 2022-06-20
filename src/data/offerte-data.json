@@ -1,0 +1,170 @@
+[
+  {
+    "id": 1,
+    "offertenummer": "2022-1002",
+    "offertes": [
+      {
+        "offertevloer": "2022-1002/1",
+        "aantal": 13,
+        "omschrijving": "Eik Gebarsten Terra LD 150 Premium 6439",
+        "btw": "21%",
+        "prijsPerDoos": 57.99,
+        "totaal": 753.83
+      },
+      {
+        "offertevloer": "2022-1002/2",
+        "aantal": 11,
+        "omschrijving": "Eik Gebarsten Licht LC55 6258",
+        "btw": "21%",
+        "prijsPerDoos": 50.37,
+        "totaal": 554.04
+      },
+      {
+        "offertevloer": "2022-1002/3",
+        "aantal": 13,
+        "omschrijving": "Eik Relax Pure LD150 Premium 6863",
+        "btw": "21%",
+        "prijsPerDoos": 57.99,
+        "totaal": 753.83
+      }
+    ],
+    "beginDatum": "20/06/2022",
+    "vervalDatum": "30/06/2022",
+    "notities": "Geen Notities ingevoerd",
+    "meters": 33
+  },
+  {
+    "id": 2,
+    "offertenummer": "2022-1003",
+    "offertes": [
+      {
+        "offertevloer": "2022-1003/1",
+        "aantal": 49,
+        "omschrijving": "Eik Gebarsten Terra LD 150 Premium 6439",
+        "btw": "21%",
+        "prijsPerDoos": 57.99,
+        "totaal": 2841.36
+      },
+      {
+        "offertevloer": "2022-1003/2",
+        "aantal": 49,
+        "omschrijving": "Eik Caledonia LD150 Premium 6421",
+        "btw": "21%",
+        "prijsPerDoos": 57.99,
+        "totaal": 2841.36
+      },
+      {
+        "offertevloer": "2022-1003/3",
+        "aantal": 41,
+        "omschrijving": "Eik Marrakech LC55 6396",
+        "btw": "21%",
+        "prijsPerDoos": 50.37,
+        "totaal": 2065.07
+      },
+      {
+        "offertevloer": "2022-1003/4",
+        "aantal": 46,
+        "omschrijving": "Veldeik licht LL150 Premium 6843",
+        "btw": "21%",
+        "prijsPerDoos": 77.48,
+        "totaal": 3564.03
+      },
+      {
+        "offertevloer": "2022-1003/5",
+        "aantal": 49,
+        "omschrijving": "parky 0003 europian oak premium swing q01",
+        "btw": "21%",
+        "prijsPerDoos": 57.99,
+        "totaal": 2841.36
+      }
+    ],
+    "beginDatum": "20/06/2022",
+    "vervalDatum": "30/06/2022",
+    "notities": "Geen Notities ingevoerd",
+    "meters": 124
+  },
+  {
+    "id": 3,
+    "offertenummer": "2022-1003",
+    "offertes": [
+      {
+        "offertevloer": "2022-1003/1",
+        "aantal": 13,
+        "omschrijving": "Eik Gebarsten Terra LD 150 Premium 6439",
+        "btw": "21%",
+        "prijsPerDoos": 57.99,
+        "totaal": 753.83
+      },
+      {
+        "offertevloer": "2022-1003/2",
+        "aantal": 11,
+        "omschrijving": "Eik Gebarsten Licht LC55 6258",
+        "btw": "21%",
+        "prijsPerDoos": 50.37,
+        "totaal": 554.04
+      },
+      {
+        "offertevloer": "2022-1003/3",
+        "aantal": 13,
+        "omschrijving": "Eik Relax Pure LD150 Premium 6863",
+        "btw": "21%",
+        "prijsPerDoos": 57.99,
+        "totaal": 753.83
+      }
+    ],
+    "beginDatum": "20/06/2022",
+    "vervalDatum": "30/06/2022",
+    "notities": "Geen Notities ingevoerd",
+    "meters": 33
+  },
+  {
+    "id": 4,
+    "offertenummer": "2022-1004",
+    "offertes": [
+      {
+        "offertevloer": "2022-1004/1",
+        "aantal": 49,
+        "omschrijving": "Eik Gebarsten Terra LD 150 Premium 6439",
+        "btw": "21%",
+        "prijsPerDoos": 57.99,
+        "totaal": 2841.36
+      },
+      {
+        "offertevloer": "2022-1004/2",
+        "aantal": 49,
+        "omschrijving": "Eik Caledonia LD150 Premium 6421",
+        "btw": "21%",
+        "prijsPerDoos": 57.99,
+        "totaal": 2841.36
+      },
+      {
+        "offertevloer": "2022-1004/3",
+        "aantal": 41,
+        "omschrijving": "Eik Marrakech LC55 6396",
+        "btw": "21%",
+        "prijsPerDoos": 50.37,
+        "totaal": 2065.07
+      },
+      {
+        "offertevloer": "2022-1004/4",
+        "aantal": 46,
+        "omschrijving": "Veldeik licht LL150 Premium 6843",
+        "btw": "21%",
+        "prijsPerDoos": 77.48,
+        "totaal": 3564.03
+      },
+      {
+        "offertevloer": "2022-1004/5",
+        "aantal": 49,
+        "omschrijving": "parky 0003 europian oak premium swing q01",
+        "btw": "21%",
+        "prijsPerDoos": 57.99,
+        "totaal": 2841.36
+      }
+    ],
+    "beginDatum": "20/06/2022",
+    "vervalDatum": "30/06/2022",
+    "notities": "Geen Notities ingevoerd",
+    "meters": 124
+  }
+]

@@ -1,0 +1,10 @@
+[
+  { "name": "Parket", "value": "parket" },
+  { "name": "Deuren", "value": "deuren" },
+  { "name": "Welkom", "value": "welkom" },
+  { "name": "Digitale Werkmuur (links)", "value": "werkmuurlinks" },
+  { "name": "Digitale Werkmuur (rechts)", "value": "werkmuurrechts" },
+  { "name": "In de kijker", "value": "kijker" },
+  { "name": "Bar", "value": "bar" },
+  { "name": "WerkTV", "value": "werktv" }
+]

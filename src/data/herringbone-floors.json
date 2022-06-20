@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Eiken white wash hardwax-olie",
+    "type": "8583_PS500",
+    "texture": "mattlackiert_Diele",
+    "id": "ps5008583",
+    "height": 11,
+    "width": 70,
+    "length": 440
+  },
+  {
+    "name": "Eik natuur licht levendig",
+    "type": "8552_PD400",
+    "texture": "naturgeoelt_Diele",
+    "id": "PD4008552",
+    "height": 11,
+    "width": 70,
+    "length": 440
+  }
+]
